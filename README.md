@@ -1,3 +1,4 @@
+[RU](README-ru.md) | [UA](README-ua.md) 
+
 # Kotlin Course
-Kotlin course for beginners. Available only in Ukrainian and Russian languages.
-Available at https://course.y9vad9.com
+Repository with course for kotlin beginners. Currently only for [RU](README-ru.md) and [UA](README-ua.md).
