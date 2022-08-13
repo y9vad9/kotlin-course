@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Наступне",
+    "description": "The label for version current"
+  },
+  "sidebar.block.category.Блок №1: Основи Kotlin": {
+    "message": "Блок №1: Основи Kotlin",
+    "description": "The label for category Блок №1: Основи Kotlin in sidebar block"
+  },
+  "sidebar.block.category.Блок №2: Основи ООП": {
+    "message": "Блок №2: Основи ООП",
+    "description": "The label for category Блок №2: Основи ООП in sidebar block"
+  }
+}

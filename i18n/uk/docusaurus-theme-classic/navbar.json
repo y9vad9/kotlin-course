@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Kotlin курс",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorial": {
+    "message": "Почати",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
