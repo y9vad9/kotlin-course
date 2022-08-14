@@ -26,7 +26,7 @@ const sidebars = {
         {
             type: 'category',
             label: 'Блок №2: Основи ООП',
-            items: ['block-2/oop_introduction', 'block-2/oop_theory', 'block-2/oop_practise'],
+            items: ['block-2/oop_theory', 'block-2/oop_practise'],
         },
     ]
 
