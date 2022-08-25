@@ -27,11 +27,16 @@ jobs:
     - run: npm run build --if-present
     - name: Deploy
       uses: appleboy/ssh-action@master
+      env:
+        APPLICATION_REBOOT_COMMAND: ${{ secrets.SSH_PORT }}
       with:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USER }}
         password: ${{ secrets.SSH_PASSWORD }}
         port: ${{ secrets.SSH_PORT }}
+        envs: 
+          APPLICATION_REBOOT_COMMAND
         script: |
           cd ${{ secrets.SSH_DEPLOY_PATH }}
           git pull -f https://github.com/y9vad9/kotlin-course/ master:master
+          echo $APPLICATION_REBOOT_COMMAND
