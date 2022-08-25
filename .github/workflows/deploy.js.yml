@@ -39,4 +39,4 @@ jobs:
         script: |
           cd ${{ secrets.SSH_DEPLOY_PATH }}
           git pull -f https://github.com/y9vad9/kotlin-course/ master:master
-          echo $APPLICATION_REBOOT_COMMAND
+          eval ${{ secrets.APPLICATION_REBOOT_COMMAND }}
