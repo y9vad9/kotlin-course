@@ -8,7 +8,7 @@ Java, PHP, Python та інших, але в результаті прийшов
 
 Зв'язок зі мною:
 - Telegram: [@y9vad9](https://t.me/y9vad9)
-- Instagram [@y9vad9](https://instagram.com/y9vad9)
+- Instagram: [@y9vad9](https://instagram.com/y9vad9)
 
 Якщо цікава моя діяльність, та ви хочете бути в курсі останніх оновлень,
 радий вас вітати у своєму [Telegram-каналі](https://t.me/vadimmeta).

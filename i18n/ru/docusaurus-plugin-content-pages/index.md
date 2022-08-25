@@ -8,7 +8,7 @@
 
 Связь со мной:
 - Telegram: [@y9vad9](https://t.me/y9vad9)
-- Instagram [@y9vad9](https://instagram.com/y9vad9)
+- Instagram: [@y9vad9](https://instagram.com/y9vad9)
 
 Если вам интересна моя деятельность в целом или обновления по поводу курса, рад приветствовать вас 
 в [Telegram-канале](https://t.me/vadimmeta).
