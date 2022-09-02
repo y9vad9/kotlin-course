@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "item.label.Tutorial": {
-    "message": "Почати",
+    "message": "Перейти до курсу",
     "description": "Navbar item with label Tutorial"
   },
   "item.label.GitHub": {
