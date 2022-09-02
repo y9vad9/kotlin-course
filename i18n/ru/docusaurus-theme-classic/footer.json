@@ -8,7 +8,7 @@
     "description": "The label of footer link with label=Курс linking to /docs/intro"
   },
   "copyright": {
-    "message": "Copyright © 2022 Kotlin Course, Inc. Built with Docusaurus.",
+    "message": "Котлин курс. Сделано с помощью Docusaurus.",
     "description": "The footer copyright"
   }
 }
