@@ -1,7 +1,7 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: Deploy
+name: deploy
 
 on:
   push:
@@ -17,22 +17,27 @@ jobs:
         node-version: [16.x]
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm ci
-    - run: npm run build --if-present
-    - run: npm test
+# unused due to auto-test while creating pull    
+#     - uses: actions/checkout@v3
+#     - name: Use Node.js ${{ matrix.node-version }}
+#       uses: actions/setup-node@v3
+#       with:
+#         node-version: ${{ matrix.node-version }}
+#         cache: 'npm'
+#     - run: npm ci
+#     - run: npm run build --if-present
     - name: Deploy
       uses: appleboy/ssh-action@master
+      env:
+        APPLICATION_REBOOT_COMMAND: ${{ secrets.SSH_PORT }}
       with:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USER }}
         password: ${{ secrets.SSH_PASSWORD }}
         port: ${{ secrets.SSH_PORT }}
+        envs: 
+          APPLICATION_REBOOT_COMMAND
         script: |
           cd ${{ secrets.SSH_DEPLOY_PATH }}
           git pull -f https://github.com/y9vad9/kotlin-course/ master:master
+          eval ${{ secrets.APPLICATION_REBOOT_COMMAND }}
