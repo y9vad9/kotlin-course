@@ -1,10 +1,10 @@
 {
   "link.title.Docs": {
-    "message": "Документація",
+    "message": "Опції",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.item.label.Курс": {
-    "message": "Курс",
+    "message": "Перейти до курсу",
     "description": "The label of footer link with label=Курс linking to /docs/intro"
   },
   "copyright": {
