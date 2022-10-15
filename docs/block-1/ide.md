@@ -10,6 +10,10 @@ id: ide_getting_started
 Intellij Idea поділяється на дві версії: **Community Edition** (безкоштовна версія) і **Ultimate Edition** (версія з передплатою).
 
 Вибирайте те, що підходить саме вам, але, якщо чесно, для новачків різниці немає.
+:::tip Корисно знати
+Якщо ви студент, ви можете отримати Ultimate Edition **безкоштовно** заповнивши 
+[цю форму](https://www.jetbrains.com/shop/eform/students).
+:::
 
 Завантажити можна зі спеціальної утиліти ([Jetbrains Toolbox](https://www.jetbrains.com/ru-ru/toolbox-app/)) або завантажити напряму [тут](https://www.jetbrains.com/ru-ru/idea/download/#section=linux).
 Далі встановлюйте налаштування, що підходять саме вам (тему та ін.).
