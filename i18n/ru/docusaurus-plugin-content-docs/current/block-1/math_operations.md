@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-id: standart_functions
+id: math_operations
 ---
 # Встроенные функции в Kotlin
 Что ж, мы рассмотрели базис, на котором уже может строиться программа.
