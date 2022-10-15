@@ -96,7 +96,7 @@ fun f(x: Double) {
 	return when {
 		x < 0 -> 3 * x
 		x >= 1 && x <= 100 -> x.pow(5)
-		else -> 1 
+		else -> sqrt(x)
 	}
 }
 ```
