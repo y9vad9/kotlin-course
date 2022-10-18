@@ -1,5 +1,4 @@
 ---
-sidebar_position: 9
 description: Висновок з першого блоку тем
 id: conclusion_1
 ---

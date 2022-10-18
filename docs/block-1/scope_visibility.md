@@ -1,5 +1,4 @@
 ---
-sidebar_position: 7
 id: scope_visibility
 ---
 # Область видимості
@@ -89,7 +88,7 @@ fun someFunction() {
 ```kotlin
 fun foo() {
 	val a = 2
-	println(a + abc) // получаем переменную с файла `another.kt`
+	println(a + abc) // отримуємо змінну з файла `another.kt`
 }
 ```
 Що це означає? А це означає те, що файл також, як і, наприклад функція, має дочірній scope (область видимості) і це деякі інші файли.
@@ -235,7 +234,7 @@ fun a(x: Double): Double {
 Тепер же, викличемо функцію `f(x)`
 ```kotlin
 fun main() {
-	val input: Double = readln().toDouble()
+	val input = 2.0 // будь-яке число
 	println(f(input))
 }
 ```

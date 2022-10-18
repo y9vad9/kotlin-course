@@ -1,5 +1,4 @@
 ---
-sidebar_position: 6
 id: math_operations
 ---
 # Математичні операції в Kotlin

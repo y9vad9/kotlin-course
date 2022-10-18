@@ -1,5 +1,4 @@
 ---
-sidebar_position: 3
 id: variables
 ---
 # Змінні
