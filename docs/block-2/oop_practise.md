@@ -8,7 +8,7 @@ sidebar_position: 11
 Уявімо, що нам потрібно зберегти чи структурувати наші дані про наших
 улюблених котів чи кішок.
 Нагадаю, що там у нашого кота є:
-![Кіт](images/oop_cat_ua.excalidraw.svg)
+![Кіт](images/oop_cat_ua.excalidraw.svg#invert)
 Для опису використаємо `object`, про який зараз поговоримо.
 
 ### Object

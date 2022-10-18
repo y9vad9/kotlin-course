@@ -28,3 +28,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* invertion images color in dark theme */
+[data-theme='dark'] img[src$='#invert'] {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
