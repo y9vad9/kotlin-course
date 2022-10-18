@@ -8,7 +8,7 @@ sidebar_position: 11
 Уявімо, що нам потрібно зберегти чи структурувати наші дані про наших
 улюблених котів чи кішок.
 Нагадаю, що там у нашого кота є:
-![Кіт](images/oop_cat_ua.excalidraw.svg)
+![Кіт](images/oop_cat_ua.excalidraw.svg#invert)
 Для опису використаємо `object`, про який зараз поговоримо.
 
 ### Object
@@ -182,7 +182,7 @@ class Cat(val name: String, val yearsOld: Int, val weight: Double) {
 ```kotlin
 object Event {
 	fun whenMeow() {
-	println("Він зробив няв!")
+		println("Він зробив няв!")
 	}
 	fun whenFellAsleep() {
 		println("Поводимося тихо! Він спить.")
