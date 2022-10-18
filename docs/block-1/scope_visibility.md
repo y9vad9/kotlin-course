@@ -234,7 +234,7 @@ fun a(x: Double): Double {
 Тепер же, викличемо функцію `f(x)`
 ```kotlin
 fun main() {
-	val input: Double = readln().toDouble()
+	val input = 2.0 // будь-яке число
 	println(f(input))
 }
 ```
