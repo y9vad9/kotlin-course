@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 id: ide_getting_started
 ---
 # Середовище розробки

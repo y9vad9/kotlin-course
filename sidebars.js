@@ -21,7 +21,7 @@ const sidebars = {
         {
             type: 'category',
             label: 'Блок №1: Основи Kotlin',
-            items: ['block-1/ide_getting_started', 'block-1/variables', 'block-1/functions', 'block-1/operators', 'block-1/math_operations', 'block-1/scope_visibility', 'block-1/cycles', 'block-1/conclusion_1'],
+            items: ['block-1/ide_getting_started', 'block-1/variables', 'block-1/functions', 'block-1/operators', 'block-1/math_operations', 'block-1/scope_visibility', 'block-1/cycles', 'block-1/string_templates', 'block-1/random_numbers', 'block-1/conclusion_1'],
         },
         {
             type: 'category',
