@@ -114,6 +114,8 @@ fun f(x: Double) {
 :::
 В результаті ми матимемо наступне:
 ```kotlin
+import kotlin.math.sqrt
+
 fun f(x: Double) {
 	return when {
 		x < 0 -> 3 * x
@@ -130,6 +132,9 @@ fun f(x: Double) {
 :::
 Можна зробити наступним чином:
 ```kotlin
+import kotlin.math.sqrt
+import kotlin.math.pow
+
 fun f(x: Double) {
 	return when {
 		x < 0 -> 3 * x
@@ -190,6 +195,10 @@ Kotlin. Ми можемо використати те, що ми написал�
 :::
 Тож, користуючись знаннями про `when` та функції `pow`, `sqrt`, `abs` виконаємо задачу:
 ```kotlin
+import kotlin.math.sqrt
+import kotlin.math.pow
+import kotlin.math.abs
+
 fun f(x: Double): Double {
     return when {
         x >= 1 <= 20 -> 3 * x.pow(10)
