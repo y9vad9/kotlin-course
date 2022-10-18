@@ -182,7 +182,7 @@ class Cat(val name: String, val yearsOld: Int, val weight: Double) {
 ```kotlin
 object Event {
 	fun whenMeow() {
-	println("Він зробив няв!")
+		println("Він зробив няв!")
 	}
 	fun whenFellAsleep() {
 		println("Поводимося тихо! Він спить.")
