@@ -11,7 +11,7 @@ id: cycles
 Взагалі, без нашої теми циклів це цілком можна було вирішити наступним чином:
 ```kotlin
 fun main() {
-	printlt("Введіть число:")
+	println("Введіть число:")
 	val input: Double = readln().toDouble()
 	println("Результат: " + input.toString())
 	return main() // в кінці функції просто викликаємо її ще раз
@@ -28,7 +28,7 @@ fun main() {
 Щоб сильно не морочитися, введемо умову, що для виходу з програми нам потрібно написати «:q».
 ```kotlin
 fun main() {
-	printlt("Введіть число: (або скористуйтесь :q для виходу):")
+	println("Введіть число: (або скористуйтесь :q для виходу):")
 	val input: String = readln() // створюємо змінну з текстом, тому що нам потрібно перевіряти введення користувача
 	if(input != ":q") {
 		val input: Double = input.toDouble() // сила областей видимості!
@@ -69,7 +69,7 @@ while(boolean) {
 fun main() {
 	var shouldRun: Boolean = true
 	while(shouldRun) {
-		printlt("Введіть число (або скористайтесь :q для виходу):")
+		println("Введіть число (або скористайтесь :q для виходу):")
 		val input: String = readln()
 		if(input == ":q") {
 			shouldRun = false // при наступному виконанні цикл побачить, що умова `false`
@@ -93,7 +93,7 @@ fun main() {
 ```kotlin
 fun main() {
 	while(true) { // умова нам не потрібна
-		printlt("Введите число (або скористайтесь :q для виходу):")
+		println("Введите число (або скористайтесь :q для виходу):")
 		val input: String = readln()
 		if(input == ":q") {
 			break // виходимо з цикло
