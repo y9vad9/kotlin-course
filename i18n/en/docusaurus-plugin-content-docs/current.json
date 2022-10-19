@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.block.category.Блок №1: Основи Kotlin": {
+    "message": "Block №1: Kotlin Basics",
+    "description": "Block №2: OOP Basics"
+  },
+  "sidebar.block.category.Блок №2: Основи ООП": {
+    "message": "Block №2: OOP Basics",
+    "description": "Block №2: OOP Basics"
+  }
+}
