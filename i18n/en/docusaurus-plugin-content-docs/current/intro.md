@@ -3,7 +3,7 @@ My respect, dear friends! My name is Vadim, from today I will tell you about Kot
 ### What is Kotlin?
 **Kotlin** is a statically typed object-oriented programming language and blah blah blah. We will not bore you and will go straight to the main point.
 ### Why Kotlin?
-Before we begin our excursion into the world of Kotlin development, it would not hurt to say that there are no perfect programming languages. You will not be able to learn Kotlin alone and be a really in-demand specialist. Each programming language creates to solve some problem: starting with ease of learning and use, ending with any other toolkit. What problem does Kotlin solve - I will tell you now.
+Before we begin our excursion into the world of Kotlin development, it would not hurt to say that there are no perfect programming languages. You will not be able to learn Kotlin alone and be a really in-demand specialist. Each programming language solves some problem: starting with ease of learning and use, ending with any other toolkit. What problem does Kotlin solve - I will tell you now.
 
 The main advantage of Kotlin over other programming languages ​​is its isolation from the environment. Kotlin works without problems in various ecosystems: *JVM* (where, for example, such programming languages ​​as Java or Scala exist), Web (can be compiled in JS or WebAssembly), Desktop (compiled in C++) and on mobile devices (Android , iOS).
 
