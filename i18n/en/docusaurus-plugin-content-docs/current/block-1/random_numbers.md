@@ -102,8 +102,8 @@ fun main() {
 
     var attempt = 0 // make a variable to store the number of attempts
     while (true) {
-        if (Random.nextInt(0, 30)) {
-            println("The number was found for $number") // we do concatenation
+        if (Random.nextInt(0, 30) == number) {
+            println("The number was found for $attempt") // we do concatenation
             break // exit the loop
         }
         attempt++ // add 1 to attempt

@@ -87,8 +87,8 @@ fun main() {
 
     var attempt = 0 // робимо змінну, щоб зберігати кількість спроб
     while (true) {
-        if (Random.nextInt(0, 30)) {
-            println("Число було знайдено за $number") // робимо конкатенацію
+        if (Random.nextInt(0, 30) == number) {
+            println("Число було знайдено за $attempt") // робимо конкатенацію
             break // виходимо з циклу
         }
         attempt++ // додаємо 1 до attempt
