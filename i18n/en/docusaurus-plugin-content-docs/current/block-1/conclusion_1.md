@@ -53,5 +53,10 @@ using a loop.
 Hint: you need to make a nested loop (loop within a loop).
 :::
 
+:::info Task #7
+Create a program where user has to guess a random number between 1 and 100.
+Limit the number of attempts to 7, and on each failed attempt, answer the user whether the random number is greater or less.
+:::
+
 
 It is very important to practice, so I advise you to do it immediately after reading.
