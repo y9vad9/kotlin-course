@@ -25,8 +25,8 @@ const sidebars = {
         },
         {
             type: 'category',
-            label: 'Блок №2: Основи ООП',
-            items: ['block-2/oop_theory', 'block-2/oop_practise'],
+            label: 'Блок №2: Структури даних',
+            items: ['block-2/objects', 'block-2/classes', 'block-2/abstractions'],
         },
     ]
 
