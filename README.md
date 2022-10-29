@@ -3,7 +3,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/y9vad9/kotlin-course)
 ![GitHub issues](https://img.shields.io/github/issues/y9vad9/kotlin-course)
 # Kotlin Course
-Kotlin course for beginners ([UK](https://course.y9vad9.com/), [RU](https://course.y9vad9.com/ru)).
+Kotlin course for beginners ([UK](https://course.y9vad9.com/), [EN](https://course.y9vad9.com/en), [RU](https://course.y9vad9.com/ru)).
 
 Site available at [course.y9vad9.com](https://course.y9vad9.com/).
 
