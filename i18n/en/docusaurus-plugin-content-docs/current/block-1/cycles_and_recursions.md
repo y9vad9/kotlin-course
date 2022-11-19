@@ -96,9 +96,9 @@ All this can be simplified by using special additional operators: `break` and `c
 
 What do these two operators do? Let's figure it out.
 
-- `break` (can be translated as break) - forcibly ends the cycle.
+- `break` - forcibly ends the cycle.
   That is, even if the condition is `true', the cycle will still end.
-- `continue` (translated as continue) - ends the execution of the current *repetition*.
+- `continue` - ends the execution of the current *repetition*.
   Unlike `break`, `continue`, roughly speaking, exits the code (the code after it is not executed) and goes immediately
 - to the next iteration (before checking the condition and further iteration if it is `true`).
 
