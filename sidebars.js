@@ -26,7 +26,7 @@ const sidebars = {
         {
             type: 'category',
             label: 'Блок №2: Структури даних',
-            items: ['block-2/objects', 'block-2/classes', 'block-2/abstractions'],
+            items: ['block-2/intro', 'block-2/objects', 'block-2/classes', 'block-2/abstractions', 'block-2/null-safety'],
         },
     ]
 
