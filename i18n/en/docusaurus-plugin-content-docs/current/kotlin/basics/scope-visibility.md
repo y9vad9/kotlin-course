@@ -1,7 +1,3 @@
----
-id: scope_visibility
----
-
 # Scope Visibility
 
 Now let's move on to a rather interesting, but somewhat complicated topic — **scope visibility**.

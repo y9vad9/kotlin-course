@@ -1,6 +1,5 @@
 ---
 description: Conclusion from first block
-id: conclusion_1
 ---
 # Conclusion: Tasks
 In this part of the course, we considered a lot of basic topics, which are already quite a significant factor in the 

@@ -1,7 +1,3 @@
----
-id: random_numbers
----
-
 # Random in Kotlin
 
 I think you have come across the concept of "coincidence" many times.

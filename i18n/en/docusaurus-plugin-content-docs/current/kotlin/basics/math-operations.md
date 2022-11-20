@@ -1,7 +1,3 @@
----
-id: math_operations
----
-
 # Mathematical operations in Kotlin
 
 Well, we have considered the ground on which the program can already be built.

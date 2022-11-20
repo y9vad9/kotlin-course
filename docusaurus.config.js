@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kotlin Course',
+  title: 'Course',
   tagline: 'Kotlin is the best',
   url: 'https://course.y9vad9.com/',
   baseUrl: '/',
@@ -61,15 +61,25 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Kotlin Course',
+        title: 'Courses',
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'kotlin/intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Kotlin',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'gradle/intro',
+            position: 'left',
+            label: 'Gradle',
+          },
+          {
+            to: 'blog',
+            label: 'Blog',
+            position: 'right'
+          },
           {
             href: 'https://github.com/y9vad9/kotlin-course',
             label: 'GitHub',
@@ -85,11 +95,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'options',
             items: [
               {
-                label: 'Курс',
-                to: '/docs/intro',
+                label: 'telegram-reference',
+                to: 'https://t.me/vadimmeta',
+              },
+              {
+                label: 'github-reference',
+                to: 'https://github.com/y9vad9',
               },
             ],
           },
@@ -99,7 +113,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['kotlin', 'groovy'],
+        additionalLanguages: ['kotlin', 'java'],
         magicComments: [
           // Remember to extend the default highlight class name as well!
           {

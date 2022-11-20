@@ -1,6 +1,3 @@
----
-id: variables
----
 # Variables
 Well, let's finally move on to the basics of the programming language.
 

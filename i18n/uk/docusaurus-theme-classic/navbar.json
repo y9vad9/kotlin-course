@@ -1,14 +1,26 @@
 {
   "title": {
-    "message": "Kotlin курс",
+    "message": "Курси",
     "description": "The title in the navbar"
   },
   "item.label.Tutorial": {
     "message": "Перейти до курсу",
     "description": "Navbar item with label Tutorial"
   },
+  "item.label.Blog": {
+    "message": "Блоґ",
+    "description": "Navbar item with label Blog"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.Kotlin": {
+    "message": "Kotlin",
+    "description": "Navbar item with label Kotlin"
+  },
+  "item.label.Gradle": {
+    "message": "Gradle",
+    "description": "Navbar item with label Gradle"
   }
 }
