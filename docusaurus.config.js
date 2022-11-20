@@ -69,7 +69,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: 'blog',
+            label: 'Blog',
+            position: 'right'
+          },
           {
             href: 'https://github.com/y9vad9/kotlin-course',
             label: 'GitHub',
