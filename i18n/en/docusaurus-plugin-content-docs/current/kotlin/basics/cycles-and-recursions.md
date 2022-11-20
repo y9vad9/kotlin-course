@@ -1,7 +1,3 @@
----
-id: cycles
----
-
 # Loops and Recursions
 
 Now, let's move on to a rather interesting, but, again, a bit difficult topic — cycles.

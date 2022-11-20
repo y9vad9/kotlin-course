@@ -1,6 +1,3 @@
----
-id: ide_getting_started
----
 # Development environment
 To begin with, let's deal with the place where we will write the code and run it.
 Usually, when working with Kotlin, Intellij Idea is used, so let's take it.

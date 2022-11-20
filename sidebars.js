@@ -13,33 +13,45 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-    block: [
+    kotlin: [
         {
             type: "doc",
-            id: 'intro'
+            id: 'kotlin/intro'
         },
         {
             type: 'category',
-            label: 'Блок №1: Основи Kotlin',
-            items: ['block-1/ide_getting_started', 'block-1/variables', 'block-1/functions', 'block-1/operators', 'block-1/scope_visibility', 'block-1/math_operations', 'block-1/cycles', 'block-1/string_templates', 'block-1/random_numbers', 'block-1/conclusion_1'],
+            label: 'kotlin-basics',
+            items: [
+                'kotlin/basics/ide',
+                'kotlin/basics/variables',
+                'kotlin/basics/functions',
+                'kotlin/basics/operators',
+                'kotlin/basics/scope-visibility',
+                'kotlin/basics/math-operations',
+                'kotlin/basics/cycles-and-recursions',
+                'kotlin/basics/string-templates',
+                'kotlin/basics/random-numbers',
+                'kotlin/basics/conclusion'
+            ],
         },
         {
             type: 'category',
-            label: 'Блок №2: Структури даних',
-            items: ['block-2/intro', 'block-2/objects', 'block-2/classes', 'block-2/abstractions', 'block-2/null-safety'],
+            label: 'kotlin-data-structures',
+            items: [
+                'kotlin/data-structures/intro',
+                'kotlin/data-structures/objects',
+                'kotlin/data-structures/classes',
+                'kotlin/data-structures/abstractions',
+                'kotlin/data-structures/null-safety'
+            ],
         },
-    ]
-
-    // But you can create a sidebar manually
-    /*
-    tutorialSidebar: [
-      {
-        type: 'category',
-        label: 'Tutorial',
-        items: ['hello'],
-      },
     ],
-     */
+    gradle: [
+        {
+            type: "doc",
+            id: 'gradle/intro'
+        }
+    ]
 };
 
 module.exports = sidebars;

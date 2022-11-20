@@ -1,6 +1,3 @@
----
-id: string_templates
----
 # String interpolation
 Remember string concatenation? In the previous topic about loops, we used it to
 add text to the number, for example: `println("Sum: " + sum)`. What if I tell you that you can
