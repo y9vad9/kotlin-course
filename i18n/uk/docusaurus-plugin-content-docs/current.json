@@ -10,5 +10,9 @@
   "sidebar.kotlin.category.kotlin-data-structures": {
     "message": "Структури даних",
     "description": "The label for category kotlin-data-structures in sidebar kotlin"
+  },
+  "sidebar.gradle.category.gradle-basics": {
+    "message": "Основи",
+    "description": "The label for category gradle-basics in sidebar gradle"
   }
 }
