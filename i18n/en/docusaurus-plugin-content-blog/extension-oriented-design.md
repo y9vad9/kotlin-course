@@ -67,7 +67,7 @@ Also, it is I recommend doing it not only to bypass restrictions. And now I will
 
 ### Separate your own code
 Although one of the advantages of extension functions is that you don't actually need to access the class, the extension function does
-are also used to separate your code into main and support functions, for example:
+are also used to separate your code into basic and additional (helper) functions, for example:
 ```kotlin
 class Storage(...) {
   fun getStringOrNull(key: String): String {...}
