@@ -76,7 +76,7 @@ class Storage(...) {
 fun Storage.getString(key: String): String = 
   getStringOrNull() ?: throw NullPointerException("$key is null")
 fun Storage.getStringOrDefault(key: String, defaultVal: String) = 
-  getStringOrNull() ?: throw NullPointerException("$key is null")
+  getStringOrNull() ?: defaultVal
 ```
 So, by analogy with the previous example, we bring out functions that are not basic logic (without which the functionality of the
 class does not change) separately after our class (this is a kind of code writing pattern formed in the community,
