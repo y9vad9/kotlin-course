@@ -249,5 +249,26 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Відкрити сайдбар",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "kotlin-course-desc": {
+    "message": "Невеличкий курс-введення в програмування на мові Kotlin. Ніяких додаткових знать не потрібно."
+  },
+  "gradle-course-desc": {
+    "message": "Невеличкий курс-введення в світ build-систем з Gradle для Kotlin та на Kotlin."
+  },
+  "blog-desc": {
+    "message": "Мої нотатки на теми з приводу програмування: підходи до написання коду й не тільки."
+  },
+  "y9vad9-bio": {
+    "message": "Привіт! Мене звати Вадим. Я вже понад 4-ьох років займаюсь програмуванням, програмуючи на різних мовах програмування: Java, PHP, Python та інших, але в результаті прийшов до мови програмування Kotlin. Вважаю цю мову одною із найкращих у своїх задачах, яка є досить простою, але водночас дуже функціональною."
+  },
+  "blog": {
+    "message": "Блоґ"
+  },
+  "course-author": {
+    "message": "Вадим Ярощук"
+  },
+  "course-author-desc": {
+    "message": "Автор курсів з програмування на Kotlin"
   }
 }

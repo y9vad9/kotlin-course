@@ -1,0 +1,42 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.course {
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+.courseSvg {
+    height: 80px;
+    width: 80px;
+}
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+    .heroBanner {
+        padding: 2rem;
+    }
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.y9vad9-avatar {
+    height: 100px;
+    width: 100px;
+}
