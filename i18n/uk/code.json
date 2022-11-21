@@ -8,15 +8,15 @@
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
-    "message": "А щоб тебе Морана побила..",
+    "message": "А щоб його Морана побила..",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Ми не змогли знайти сторінку, яку ви шукали",
+    "message": "Ми не змогли знайти сторінку, яку ви шукали.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Повідомте розробнику, щоб цей бусурман виправив це недорозуміння..",
+    "message": "Повідомте розробнику про цю помилку, щоб цей бусурман виправив це недорозуміння..",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.admonition.note": {
