@@ -81,7 +81,7 @@ fun Storage.getStringOrDefault(key: String, defaultVal: String) =
 класу не змінюється) окремо після нашого класу (це такий собі шаблон написання коду, що утворився в ком'юніті,
 як це також, наприклад, з factory-функціями, які ми виносимо перед класом).
 
-Можете переглянути деякі приклади з kotlinx.coroutines 
+Можете переглянути приклади з стандартної бібліотеки: [kotlin.Result](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Result.kt#L173), чи з kotlinx.coroutines 
 [\[1\]](https://github.com/Kotlin/kotlinx.serialization/blob/master/core/commonMain/src/kotlinx/serialization/encoding/Decoding.kt#L561)
 [\[2\]](https://github.com/Kotlin/kotlinx.serialization/blob/master/core/commonMain/src/kotlinx/serialization/encoding/Encoding.kt#L483)
 або з ktor
