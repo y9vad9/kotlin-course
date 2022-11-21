@@ -68,6 +68,10 @@ const config = {
         ({
             navbar: {
                 title: 'Courses',
+                logo: {
+                    alt: 'Logo',
+                    src: 'img/logo.png',
+                },  
                 items: [
                     {
                         type: 'doc',
