@@ -249,5 +249,26 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "kotlin-course-desc": {
+    "message": "A small introductory course in Kotlin programming. No additional knowledge is required."
+  },
+  "gradle-course-desc": {
+    "message": "A small introductory course to the world of build systems with Gradle for Kotlin and on Kotlin."
+  },
+  "blog-desc": {
+    "message": "My notes on programming topics: approaches to writing code and more."
+  },
+  "y9vad9-bio": {
+    "message": "Hello everyone, my name is Vadim. I have been programming for over four years. I've been writing in Java, PHP, Python, and other languages but eventually came to a language called Kotlin. I consider it one of the best programming languages, which has a great present and an even better future. \n\nI decided to make my own small Kotlin course for beginners since there are not many courses on the Internet."
+  },
+  "blog": {
+    "message": "Blog"
+  },
+  "course-author": {
+    "message": "Vadim Yaroschuk"
+  },
+  "course-author-desc": {
+    "message": "Author of kotlin courses"
   }
 }
