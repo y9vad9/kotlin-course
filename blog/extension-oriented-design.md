@@ -2,6 +2,9 @@
 title: Extension Oriented Design
 description: Чому розширення власних класів – це гарний тон?
 authors: vadim-yaroschuk
+keywords: [kotlin extensions, kotlin функції розширення, розширення, клас, class]
+tags: [kotlin, design]
+date: 2022-10-20
 ---
 # Розширення класів
 З появою різних підходів до написання коду, люди по різному розділяли код: спочатку на функції, потім на об'єкти 

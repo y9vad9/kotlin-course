@@ -1,3 +1,7 @@
+---
+description: Visibility modifier, packages and imports and how they effect on scopes.
+keywords: [kotlin visibility, scopes, package, tutorial, for newbies, for noobs, signature]
+---
 # Scope Visibility
 
 Now let's move on to a rather interesting, but somewhat complicated topic — **scope visibility**.

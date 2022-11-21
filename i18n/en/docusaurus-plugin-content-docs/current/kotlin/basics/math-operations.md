@@ -1,3 +1,7 @@
+---
+description: Number conversions, pow, absolute value (module) and square
+keywords: [kotlin math, number conversion, sqrt, abs, pow]
+---
 # Mathematical operations in Kotlin
 
 Well, we have considered the ground on which the program can already be built.

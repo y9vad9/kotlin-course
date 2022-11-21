@@ -5,7 +5,7 @@ My respect, dear friends! My name is Vadim, from today I will tell you about Kot
 ### Why Kotlin?
 Before we begin our excursion into the world of Kotlin development, it would not hurt to say that there are no perfect programming languages. You will not be able to learn Kotlin alone and be a really in-demand specialist. Each programming language solves some problem: starting with ease of learning and use, ending with any other toolkit. What problem does Kotlin solve - I will tell you now.
 
-The main advantage of Kotlin over other programming languages ​​is its isolation from the environment. Kotlin works without problems in various ecosystems: *JVM* (where, for example, such programming languages ​​as Java or Scala exist), Web (can be compiled in JS or WebAssembly), Desktop (compiled in C++) and on mobile devices (Android , iOS).
+The main advantage of Kotlin over other programming languages is its isolation from the environment. Kotlin works without problems in various ecosystems: *JVM* (where, for example, such programming languages ​​as Java or Scala exist), Web (can be compiled in JS or WebAssembly), Desktop (compiled in C++) and on mobile devices (Android , iOS).
 
 What does it mean? It means that Kotlin will continuously help to solve different tasks.
 By learning Kotlin, you will be able to cover all the currently popular platforms. It also means that you can, for example, work with code written in other programming languages ​​(Desktop - C++; JVM, Android - Java; iOS - Swift / Objective-C and, of course, Web - JS / WASM).

@@ -1,3 +1,7 @@
+---
+description: Immutable and mutable variables in Kotlin
+keywords: [kotlin variables, kotlin var, kotlin val, kotlin const, tutorial, for newbies, for noobs]
+---
 # Variables
 Well, let's finally move on to the basics of the programming language.
 

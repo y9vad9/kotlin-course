@@ -1,3 +1,7 @@
+---
+description: String interpolation
+keywords: [kotlin string, kotlin string templates, kotlin interpolation, tutorials, for noobs, for newbies]
+---
 # String interpolation
 Remember string concatenation? In the previous topic about loops, we used it to
 add text to the number, for example: `println("Sum: " + sum)`. What if I tell you that you can

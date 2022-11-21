@@ -1,3 +1,7 @@
+---
+description: Null-safety в Kotlin
+keywords: [kotlin null, kotlin нулл, туторіал, для новачків, nullable, elvis operator, double bang, not null assertion, safe call, безпечний виклик]
+---
 # Nullable типи
 Ми розглянули об'єкти й тепер прийшов час розглянути випадки, коли у нас можуть бути відсутні якісь дані.
 Що таке nullable? **Nullable** – це властивість типу не набувати значення, а мати `null` (тобто нічого). Тобто:
