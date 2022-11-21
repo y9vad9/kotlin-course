@@ -44,7 +44,7 @@
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top",
+    "message": "Повернутись наверх",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
@@ -56,7 +56,7 @@
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation",
+    "message": "Навігація сторінкою зі списком дописів",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
@@ -116,27 +116,27 @@
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages navigation",
+    "message": "Навігація сторінками документів",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Попередня тема",
+    "message": "Назад",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Наступна тема",
+    "message": "Вперед",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged",
+    "message": "Один документ тегнутий|{count} документів тегнуто",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\"",
+    "message": "{nDocsTagged} з \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
+    "message": "Версія: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
@@ -159,7 +159,7 @@
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direct link to heading",
+    "message": "Пряме посилання на заголовок",
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
@@ -167,19 +167,19 @@
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": " by {user}",
+    "message": " користувачем {user}",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}",
+    "message": "Востаннє оновлено {atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions",
+    "message": "Версії",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.common.skipToMainContent": {
-    "message": "Skip to main content",
+    "message": "Пропустити до головного контенту",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsListLabel": {
@@ -187,7 +187,7 @@
     "description": "The label alongside a tag list"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
+    "message": "Навігація останніми публікаціями блогу",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.CodeBlock.copied": {
@@ -203,7 +203,7 @@
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap",
+    "message": "Увімкнути перенос слів",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
@@ -231,11 +231,11 @@
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar",
+    "message": "Згорнути бічну панель",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar",
+    "message": "Згорнути бічну панель",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
