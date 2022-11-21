@@ -82,7 +82,7 @@ So, by analogy with the previous example, we bring out functions that are not ba
 class does not change) separately after our class (this is a kind of code writing pattern formed in the community,
 as it is also, for example, with factory-functions that we bring before the class).
 
-You can view some examples from kotlinx.coroutines
+You can view some examples from standart library such as [kotlin.Result](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Result.kt#L173) or from kotlinx.coroutines
 [\[1\]](https://github.com/Kotlin/kotlinx.serialization/blob/master/core/commonMain/src/kotlinx/serialization/encoding/Decoding.kt#L561)
 [\[2\]](https://github.com/Kotlin/kotlinx.serialization/blob/master/core/commonMain/src/kotlinx/serialization/encoding/Encoding.kt#L483)
 or from ktor
