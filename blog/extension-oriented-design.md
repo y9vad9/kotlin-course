@@ -75,7 +75,7 @@ class Storage(...) {
 fun Storage.getString(key: String): String = 
   getStringOrNull() ?: throw NullPointerException("$key is null")
 fun Storage.getStringOrDefault(key: String, defaultVal: String) = 
-  getStringOrNull() ?: throw NullPointerException("$key is null")
+  getStringOrNull() ?: defaultVal
 ```
 Тобто за аналогією з попереднім прикладом, ми виносимо функції, що не є базовою логікою (без яких функціональність
 класу не змінюється) окремо після нашого класу (це такий собі шаблон написання коду, що утворився в ком'юніті,
