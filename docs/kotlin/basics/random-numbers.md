@@ -1,3 +1,7 @@
+---
+description: Рандом у Kotlin за допомогою kotlin.Random & java.util.Random
+keywords: [kotlin random, рандом, kotlin випадковість, туторіал, для новачків, kotlin.Random, java.util.Random]
+---
 # Випадковість в Kotlin
 Я думаю ви багато разів зустрічались з поняттям «випадковості». 
 Була це лотерея, чи енеки-бенеки – неважливо. 

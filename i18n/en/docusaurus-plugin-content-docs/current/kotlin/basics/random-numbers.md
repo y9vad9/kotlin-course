@@ -1,3 +1,7 @@
+---
+description: Random in kotlin via kotlin.Random & java.util.Random
+keywords: [kotlin random, tutorial, for noobs, for newbies, kotlin.Random, java.util.Random]
+---
 # Random in Kotlin
 
 I think you have come across the concept of "coincidence" many times.

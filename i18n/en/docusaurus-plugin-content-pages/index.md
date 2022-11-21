@@ -1,4 +1,7 @@
-# About course
+---
+keywords: [kotlin, kotlin course, for beginners, for newbies]
+---
+# About courses
 Hello everyone, my name is Vadim. I have been programming for over four years.
 I've been writing in Java, PHP, Python, and other languages but eventually came to a language called Kotlin.
 I consider it one of the best programming languages,

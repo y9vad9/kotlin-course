@@ -1,7 +1,7 @@
 ---
-id: operators
+description: Mathematical, logical and conditional operators in Kotlin
+keywords: [kotlin operators, tutorial, for newbies, for noobs, if, when, math]
 ---
-
 # Operators
 
 In programming, an operator is a symbol that represents some kind of action on an entity (for example, a number that is

@@ -1,3 +1,7 @@
+---
+description: Абстрактність в Kotlin за допомогою інтерфейсів, абстрактних класів та відкритих класів.
+keywords: [kotlin inheritance, kotlin abstractions, абстракції, спадкування, туторіал, для новачків, abstract class, open class, interface, ООП]
+---
 # Абстракції (Спадкування)
 
 ## Завдання

@@ -1,5 +1,6 @@
 ---
-id: functions
+description: Explanation and examples of functions in Kotlin
+keywords: [kotlin functions, tutorials, for noobs, for newbies]
 ---
 # Functions
 Think of any single action or multiple actions that you do every day and give it a name. Let's take running as an example of such a set of actions.

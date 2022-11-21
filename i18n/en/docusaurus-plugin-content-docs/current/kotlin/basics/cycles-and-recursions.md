@@ -1,3 +1,7 @@
+---
+description: for, while, do-while and iterator (progressions and ranges) в Kotlin
+keywords: [kotlin cycles, recursions, kotlin ranges, progressions, tutorial, for newbies, for noobs, for, while, do-while, iterator, iteration, progression, range]
+---
 # Loops and Recursions
 
 Now, let's move on to a rather interesting, but, again, a bit difficult topic — cycles.
