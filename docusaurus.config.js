@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Courseі',
+    title: 'Course',
     tagline: 'Kotlin is the best',
     url: 'https://course.y9vad9.com/',
     baseUrl: '/',
