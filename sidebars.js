@@ -41,6 +41,7 @@ const sidebars = {
                 'kotlin/data-structures/intro',
                 'kotlin/data-structures/objects',
                 'kotlin/data-structures/classes',
+                'kotlin/data-structures/strings',
                 'kotlin/data-structures/abstractions',
                 'kotlin/data-structures/null-safety'
             ],
