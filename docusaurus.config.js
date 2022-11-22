@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
 const katex = require('rehype-katex');
 
-/** @type {import('@docusaurus/types').Config} */
+/** @type {{onBrokenLinks: string, organizationName: string, favicon: string, title: string, url: string, onBrokenMarkdownLinks: string, i18n: {defaultLocale: string, locales: string[]}, baseUrl: string, presets: [string,Options][], stylesheets: [{crossorigin: string, integrity: string, href: string, type: string}], tagline: string, themeConfig: ThemeConfig & UserThemeConfig & AlgoliaThemeConfig, projectName: string}} */
 const config = {
     title: 'Course',
     tagline: 'Kotlin is the best',
@@ -135,6 +135,10 @@ const config = {
                     {
                         className: 'code-block-error-line',
                         line: 'This will error',
+                    },
+                    {
+                        className: 'code-block-correct-line',
+                        line: 'This is correct',
                     },
                 ],
             },
