@@ -19,6 +19,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+  background-color: #0d1117;
   --ifm-color-primary: #ab2bfc;
   --ifm-color-primary-dark: #9E18D7;
   --ifm-color-primary-darker: #8D0AAF;
@@ -28,6 +29,11 @@
   --ifm-color-primary-lightest: #FE54FF;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* navbar in dark theme */
+[data-theme='dark'] .navbar {
+  background-color: #161b22;
+} 
 
 /* invertion images color in dark theme */
 [data-theme='dark'] img[src$='#invert'] {
