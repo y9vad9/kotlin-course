@@ -44,7 +44,8 @@ const sidebars = {
                 'kotlin/data-structures/strings',
                 'kotlin/data-structures/abstractions',
                 'kotlin/data-structures/null-safety',
-                'kotlin/data-structures/errors'
+                'kotlin/data-structures/errors',
+                'kotlin/data-structures/primitive-arrays'
             ],
         },
     ],
