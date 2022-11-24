@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 622.54296875 182.734375" width="1245.0859375" height="365.46875">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round" transform="translate(125.833984375 10) rotate(0 185.4375 25.03125)"><path d="M0 0 C123.39 0, 246.79 0, 370.88 0 M0 0 C78.4 0, 156.8 0, 370.88 0 M370.88 0 C370.88 17.19, 370.88 34.37, 370.88 50.06 M370.88 0 C370.88 11.18, 370.88 22.36, 370.88 50.06 M370.88 50.06 C272.8 50.06, 174.73 50.06, 0 50.06 M370.88 50.06 C253.69 50.06, 136.51 50.06, 0 50.06 M0 50.06 C0 38.98, 0 27.91, 0 0 M0 50.06 C0 33.86, 0 17.66, 0 0" stroke="#000000" stroke-width="4" fill="none"></path></g><g transform="translate(236.271484375 18.03125) rotate(0 75 17)"><text x="75" y="27" font-family="Cascadia, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Throwable</text></g><g stroke-linecap="round" transform="translate(10 128.734375) rotate(0 110 22)"><path d="M0 0 C71.13 0, 142.27 0, 220 0 M0 0 C65.17 0, 130.34 0, 220 0 M220 0 C220 16.02, 220 32.03, 220 44 M220 0 C220 9.54, 220 19.08, 220 44 M220 44 C159.81 44, 99.62 44, 0 44 M220 44 C151.16 44, 82.31 44, 0 44 M0 44 C0 34.27, 0 24.55, 0 0 M0 44 C0 31.9, 0 19.8, 0 0" stroke="#000000" stroke-width="4" fill="none"></path></g><g transform="translate(66.5 138.734375) rotate(0 53.5 12)"><text x="53.5" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Exception</text></g><g stroke-linecap="round" transform="translate(392.54296875 128.734375) rotate(0 110 22)"><path d="M0 0 C65.35 0, 130.7 0, 220 0 M0 0 C49.92 0, 99.85 0, 220 0 M220 0 C220 14.51, 220 29.02, 220 44 M220 0 C220 11.92, 220 23.84, 220 44 M220 44 C133.94 44, 47.88 44, 0 44 M220 44 C154.14 44, 88.28 44, 0 44 M0 44 C0 34.64, 0 25.28, 0 0 M0 44 C0 33.43, 0 22.86, 0 0" stroke="#000000" stroke-width="4" fill="none"></path></g><g transform="translate(472.04296875 138.734375) rotate(0 30.5 12)"><text x="30.5" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Error</text></g><g stroke-linecap="round"><g transform="translate(309.57421875 60.67578125) rotate(0 -94.359375 33.76171875)"><path d="M0 0 C-31.45 11.25, -157.27 56.27, -188.72 67.52 M0 0 C-31.45 11.25, -157.27 56.27, -188.72 67.52" stroke="#000000" stroke-width="4" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(315.55078125 60.609375) rotate(0 98.6171875 34.03125)"><path d="M0 0 C32.87 11.34, 164.36 56.72, 197.23 68.06 M0 0 C32.87 11.34, 164.36 56.72, 197.23 68.06" stroke="#000000" stroke-width="4" fill="none"></path></g></g></svg>
