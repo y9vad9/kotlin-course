@@ -1,12 +1,3 @@
----
-name: 
-about: ''
-title: ''
-labels: 
-assignees: y9vad9
-
----
-
 **Have you added a translation for all languages?**
 
 Write about languages that your topic has.
